@@ -1,7 +1,7 @@
 
-## Namartist
+## Hypertension Management Information System
 
-This is an Restfu APIs which has been developed using Laravel, to be used in Namadingo website
+This is an Restfu APIs which has been developed using Laravel, to be used in for Hypertension Clinic
 
 
 ### Usage
