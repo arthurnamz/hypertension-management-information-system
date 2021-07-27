@@ -146,7 +146,7 @@
 								</div>
                             </div>
                             <div class="m-t-20 text-center">
-                                <button class="btn btn-primary submit-btn">Create Employee</button>
+                                <button class="btn btn-primary submit-btn">Create Patient</button>
                             </div>
                         </form>
                     </div>
