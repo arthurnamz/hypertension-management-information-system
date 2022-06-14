@@ -16,7 +16,11 @@ class BP_measurements extends Model
         return $this->belongsTo('App\Patient', 'patient_id');
     }
 
-     public function Employee()
+    //  public function Employee()
+    // {
+    //     return $this->belongsTo('App\Employee', 'employee_id');
+    // }
+    public function Employee()
     {
         return $this->belongsTo('App\Employee', 'employee_id');
     }
