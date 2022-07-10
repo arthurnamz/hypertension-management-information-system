@@ -44,7 +44,7 @@ class Employee extends Model
 
      public function Kidnet_Test()
     {
-        return $this->hasMany('App\Kidnet_Test', 'employee_id');
+        return $this->hasMany('App\Kidnet_Tests', 'employee_id');
     }
 
      public function Other_Test()
